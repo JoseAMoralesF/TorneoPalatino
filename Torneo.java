@@ -64,8 +64,8 @@ public class Torneo {
 
     //}
 
-    public void HacerEquipo(){
-        Equipos equipo1 = new Equipos();
-        equipo1.setNombre("Los Angeles Azules");
-    }
+    //public void HacerEquipo(){
+    //    Equipos equipo1 = new Equipos();
+    //    equipo1.setNombre("Los Angeles Azules");
+    //}
 }

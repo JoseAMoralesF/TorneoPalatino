@@ -13,6 +13,19 @@ public class Equipos {
     private int TarjetaRoja;
     private int Faltas;
 
+    public Equipo(){
+        Nombre = "";
+        Lugar = 0;
+        TirosEsquina = 0;
+        Ganados = 0;
+        Perdidos = 0;
+        TirosGol = 0;
+        Goles = 0;
+        TarjetaAmarilla = 0;
+        TarjetaRoja = 0;
+        Faltas = 0;
+    }
+
     public String getNombre(){
         return Nombre;
     }
